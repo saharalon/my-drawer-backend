@@ -4,5 +4,5 @@
 ## development
 
     $ npm install
-    $ npm start (runs on localhost:3000)
+    $ npm start              (runs on localhost:3000)
     $ npm run debug
